@@ -25,8 +25,8 @@ UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/SARKAROP123/Tksowner
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/TKS_JOIN")
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/TKS_JOIN")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/zehar_dpz")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/touch_your_heart31")
 
 SUPPORT_HEHE = SUPPORT_GROUP.split("me/")[1]
 
