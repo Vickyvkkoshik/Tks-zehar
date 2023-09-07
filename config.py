@@ -76,34 +76,34 @@ clean = {}
 autoclean = []
 
 
-START_IMG_URL = getenv("START_IMG_URL", "https://telegra.ph//file/7b0ccf30a2c27703c4c66.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://te.legra.ph/file/719356976c0a6f14f6ada.jpg")
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
-    "https://telegra.ph//file/540be1b75ff70fe7b2c28.jpg",
+    "https://te.legra.ph/file/6a817381d251ba2ebe228.jpg",
 )
 
-PLAYLIST_IMG_URL = "https://telegra.ph//file/c4643ab07fc6a371cbc74.jpg"
+PLAYLIST_IMG_URL = "https://te.legra.ph/file/6a817381d251ba2ebe228.jpg"
 
-GLOBAL_IMG_URL = "https://telegra.ph//file/c4643ab07fc6a371cbc74.jpg"
+GLOBAL_IMG_URL = "https://te.legra.ph/file/6a817381d251ba2ebe228.jpg"
 
-STATS_IMG_URL = "https://telegra.ph//file/c4643ab07fc6a371cbc74.jpg"
+STATS_IMG_URL = "https://te.legra.ph/file/6a817381d251ba2ebe228.jpg"
 
-TELEGRAM_AUDIO_URL = "https://telegra.ph//file/c4643ab07fc6a371cbc74.jpg"
+TELEGRAM_AUDIO_URL = "https://te.legra.ph/file/6a817381d251ba2ebe228.jpg"
 
-TELEGRAM_VIDEO_URL = "https://telegra.ph//file/c4643ab07fc6a371cbc74.jpg"
+TELEGRAM_VIDEO_URL = "https://te.legra.ph/file/c5a80bfefd3a53872491d.jpg"
 
-STREAM_IMG_URL = "https://telegra.ph//file/c4643ab07fc6a371cbc74.jpg"
+STREAM_IMG_URL = "https://te.legra.ph/file/c5a80bfefd3a53872491d.jpg"
 
-SOUNCLOUD_IMG_URL = "https://telegra.ph//file/c4643ab07fc6a371cbc74.jpg"
+SOUNCLOUD_IMG_URL = "https://te.legra.ph/file/c5a80bfefd3a53872491d.jpg"
 
-YOUTUBE_IMG_URL = "https://telegra.ph//file/c4643ab07fc6a371cbc74.jpg"
+YOUTUBE_IMG_URL = "https://te.legra.ph/file/719356976c0a6f14f6ada.jpg"
 
-SPOTIFY_ARTIST_IMG_URL = "https://telegra.ph//file/c4643ab07fc6a371cbc74.jpg"
+SPOTIFY_ARTIST_IMG_URL = "https://te.legra.ph/file/719356976c0a6f14f6ada.jpg"
 
-SPOTIFY_ALBUM_IMG_URL = "https://telegra.ph//file/c4643ab07fc6a371cbc74.jpg"
+SPOTIFY_ALBUM_IMG_URL = "https://te.legra.ph/file/719356976c0a6f14f6ada.jpg"
 
-SPOTIFY_PLAYLIST_IMG_URL = "https://telegra.ph//file/c4643ab07fc6a371cbc74.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://te.legra.ph/file/c5a80bfefd3a53872491d.jpg"
 
 def time_to_seconds(time):
     stringt = str(time)
